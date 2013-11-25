@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>jQuery.nonSuckyYouTubeEmbed</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+		<script src="../dist/jquery.nonSuckyYouTubeEmbed.js"></script>
+		<style>
+			.container {
+				width: 90%;
+				max-width: 600px;
+				margin: 0 auto;
+			}
+			.nsyte {
+				margin-bottom: 1em;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<h1>jQuery.nonSuckyYouTubeEmbed</h1>
+			<div class="nsyte" id="CqZgd6-xQl8" data-width="480" data-height="360"></div>
+			<div class="nsyte" id="HoQN7K6HdRw" data-width="480" data-height="360" data-alt="Music video of Daft Punk's Voyager Song"></div>
+			<div class="nsyte" id="9bZkp7q19f0" data-width="640" data-height="360"></div>
+		</div>
+		<script>
+			$(document).ready(function() {
+				$('.nsyte').nonSuckyYouTubeEmbed();
+			});
+		</script>
+	</body>
+</html>

@@ -1,0 +1,27 @@
+{
+	"name": "nonSuckyYouTubeEmbed",
+	"title": "jquery.nonSuckyYouTubeEmbed",
+	"description": "jQuery.nonSuckyYouTubeEmbed is a jQuery plugin that takes the (performance) suck out of YouTube Embeds",
+	"keywords": [
+		"jquery",
+		"YouTube",
+		"iFrame",
+		"embed",
+		"thumbnail",
+		"responsive"
+	],
+	"version": "1.0.0",
+	"author": {
+		"name": "Max Chadwick",
+		"url": "https://github.com/mpchadwick"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://zenorocha.mit-license.org/"
+		}
+	],
+	"dependencies": {
+		"jquery": ">=1.4"
+	}
+}
