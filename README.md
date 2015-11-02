@@ -6,7 +6,7 @@ Use *jquery.nonSuckyYouTubeEmbed.js* for a huge performance boost whenever your 
 
 ## Demo
 
-Check out *jquery.zoomPanTouchSVG* live and in action [here](http://mpchadwick.github.io/jquery.nonSuckyYouTubeEmbed/index.html)...
+Check out *jquery.nonSuckyYouTubeEmbed* live and in action [here](http://mpchadwick.github.io/jquery.nonSuckyYouTubeEmbed/index.html)...
 
 ## Usage
 
